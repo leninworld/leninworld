@@ -1,1 +1,1 @@
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leninworld)](https://git.io/streak-stats)
